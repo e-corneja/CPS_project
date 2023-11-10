@@ -1,4 +1,4 @@
-# Webpack Static Site Starter Kit
+CPS final project
 
 
 
